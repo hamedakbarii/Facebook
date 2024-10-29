@@ -23,7 +23,7 @@ export default function Posts() {
         <TbDots className="text-3xl text-gray-500" />
       </div>
 
-      <div className="m-2 w-full flex justify-around items-center">
+      <div className="m-2 w-full flex flex-col md:flex-row justify-around items-center">
         <img
           src="./images/center/post/nature.jpg"
           alt="nature"

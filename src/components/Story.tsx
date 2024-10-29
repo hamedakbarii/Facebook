@@ -9,7 +9,7 @@ export default function Story({
 }) {
   return (
     <div
-      className="relative flex items-end justify-center h-64 pb-4 bg-center bg-cover cursor-pointer w-full rounded-xl"
+      className="w-64 h-64 relative flex items-end justify-center pb-4 bg-center bg-cover cursor-pointer rounded-xl"
       style={{
         backgroundImage: `url('${bg}')`,
       }}

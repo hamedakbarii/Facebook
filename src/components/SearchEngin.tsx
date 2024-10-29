@@ -1,7 +1,7 @@
 export default function SearchEngin() {
   return (
-    <div className="bg-[#1a1c20] flex justify-center items-center w-full h-28 rounded-xl mt-4">
-      <div className="flex items-center justify-center w-full px-4">
+    <div className="bg-[#1a1c20] flex justify-center items-center w-full h-32 rounded-xl mt-4">
+      <div className="flex flex-col gap-4 md:flex-row items-center justify-center w-full px-4">
         <img
           src="./images/left/photo_2022-09-19_18-45-53.jpg"
           alt="Hamed Akbari"

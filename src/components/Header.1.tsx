@@ -12,7 +12,7 @@ export default function Header() {
       </Link>
 
       {/* Menu Items */}
-      <div className="w-full hidden md:flex justify-center items-center gap-20 text-2xl text-gray-500">
+      <div className="w-full hidden lg:flex justify-center items-center gap-20 text-2xl text-gray-500">
         <NavLink
           to="/"
           className={({ isActive, isPending }) =>
@@ -68,7 +68,7 @@ export default function Header() {
         </NavLink>
       </div>
 
-      <div className="hidden md:flex items-center justify-center">
+      <div className="hidden lg:flex items-center justify-center">
         <div className="flex items-center justify-center bg-[#35383c] rounded-3xl p-2 gap-2">
           <i className="text-gray-400 fa-solid fa-magnifying-glass"></i>
           <input
@@ -93,7 +93,7 @@ export default function Header() {
       </div>
 
       {/* hamburger menu */}
-      <GiHamburgerMenu className="md:hidden text-gray-500 text-2xl cursor-pointer" />
+      <GiHamburgerMenu className="lg:hidden text-gray-500 text-2xl cursor-pointer" />
     </header>
   );
 }
