@@ -7,7 +7,7 @@ import Stories from "./Stories";
 
 export default function Main() {
   return (
-    <div className="w-full flex justify-between items-center text-white">
+    <div className="w-full flex justify-between items-center text-white gap-4 overflow-hidden">
       {/* Left side */}
       <div className="hidden lg:flex flex-col justify-center items-center">
         <Me />
@@ -16,7 +16,7 @@ export default function Main() {
       </div>
 
       {/* Right side */}
-      <div className="w-full lg:w-[75%] mr-10">
+      <div className="w-full lg:w-[75%]">
         <Stories />
         <SearchEngin />
         <Posts />
