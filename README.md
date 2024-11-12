@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items:center; gap: 10px; width:100%;">
   <img src="public/images/portfolio.png" alt="Project Expert" width="45%">
   <img src="public/images/portfolioMobile.jpg" alt="Project Expert" width="45%">
 </div>
