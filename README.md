@@ -1,3 +1,4 @@
+<img src="./images/portfolio.png" alt="Project Expert" width="200" height="200">
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
