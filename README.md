@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="public/images/portfolio.png" alt="Project Expert" width="45%">
-  <img src="public/images/portfolioMobile.jpg" alt="Project Expert" width="45%">
+  <img src="public/images/portfolio.png" alt="Project Expert">
+  <img src="public/images/portfolioMobile.jpg" alt="Project Expert">
 </p>
 
 # React + TypeScript + Vite
