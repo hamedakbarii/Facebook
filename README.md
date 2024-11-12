@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center" style={{display:'flex'}}>
   <img src="public/images/portfolio.png" alt="Project Expert" width="100%">
-</p>
+  <img src="public/images/portfolioMobile.jpg" alt="Project Expert" width="100%">
+</div>
 
 # React + TypeScript + Vite
 
