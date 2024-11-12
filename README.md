@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/portfolio.png" alt="Project Expert" width="200" height="200">
+  <img src="public/images/portfolio.png" alt="Project Expert" width="100%">
 </p>
 
 # React + TypeScript + Vite
