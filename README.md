@@ -1,8 +1,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="public/images/portfolio.png" alt="Project Expert" width="400"></td>
-      <td><img src="public/images/portfolioMobile.jpg" alt="Project Expert" width="400"></td>
+      <td><img src="public/images/portfolio.png" alt="Project Expert" width="600"></td>
+      <td><img src="public/images/portfolioMobile.jpg" alt="Project Expert" width="300"></td>
     </tr>
   </table>
 </div>
