@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items:center; gap: 10px; width:100%;">
-  <img src="public/images/portfolio.png" alt="Project Expert">
-  <img src="public/images/portfolioMobile.jpg" alt="Project Expert">
+  <img src="public/images/portfolio.png" alt="Project Expert" width='70%'>
+  <img src="public/images/portfolioMobile.jpg" alt="Project Expert" width='30%'>
 </div>
 
 # React + TypeScript + Vite
